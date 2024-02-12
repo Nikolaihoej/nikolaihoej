@@ -1,12 +1,4 @@
-<div style=" display: flex; justify-content: center; align-items: center;  background-image: url('peakpx.jpg'); width: 100%; height: 200px;">
-    <p style=" text-align: center; color: #fff; font-family: 'Open Sans', sans-serif; font-weight: 600;">
-        <span style="font-size: 45px;">Hey! I'm Nikolai</span>
-        <br>
-        <span style="font-size: 16px;">Webdeveloper & Multimediadesign</span>
-    </p>
-</div>
-
-
+<img src="bannerforgit.png"/>
 <p align="justify">
   I'm Nikolai Hoej Jensen, but people call me "Hoej / høj" I'm a dedicated Multimediadesigner and studying to becomeing a Web-developer with a focus on Frontend development and UI/UX designs. I focus on creating functional and visually pretty front-end web applications. I have expertise in mock-ups, photo editing, Re-designs and other graphic design services. I have an AP Degree in Multimediadesign as i mentioned earlier and I am currently studying for my bachelor's degree in web design. I have been around computers my whole life and always had a curiosity for technical work. My passion for drawing and design has helped me on my way to becoming a professional website developer.
 </p>
@@ -39,7 +31,6 @@
 <a href="www.linkedin.com/in/nikolai-jensen-472577195">
  <img src="https://img.shields.io/badge/-NikolaiHJensen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikolai-jensen-472577195"/>
 </a>
-<div style="display: flex; align-items: center; gap: 20px; justify-content: center;">
-<img src="selvportræt_svg_Tegnebræt 1.svg" style="width: 50vh"/>
-<p style="font-size: 35px; ">Have a Great Day!</p>
+<div>
+<img src="jajajajajjajajjaja_Tegnebræt 1.svg"/>
 </div>
