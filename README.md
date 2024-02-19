@@ -31,6 +31,4 @@
 <a href="www.linkedin.com/in/nikolai-jensen-472577195">
  <img src="https://img.shields.io/badge/-NikolaiHJensen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikolai-jensen-472577195"/>
 </a>
-<div>
-<img src="selvportrætv5_Tegnebræt 1.svg"/>
-</div>
+
