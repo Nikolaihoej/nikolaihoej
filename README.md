@@ -29,7 +29,7 @@
 <a href="mailto: nikolaihjensen@hotmail.com">
  <img src="https://img.shields.io/badge/-Nikolaihjensen-c14438?style=flat-square&logo=MicrosoftOutlook&logoColor=white&link=mailto:nikolaihjensen@hotmail.com"/>
 </a>
-<a href="www.linkedin.com/in/nikolai-jensen-472577195">
+<a href="https://www.linkedin.com/in/nikolai-jensen-472577195">
  <img src="https://img.shields.io/badge/-NikolaiHJensen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikolai-jensen-472577195"/>
 </a>
 
