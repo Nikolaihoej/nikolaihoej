@@ -1,9 +1,9 @@
 <img src="bannerforgit.png"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nikolaihoej&label=Profile%20views&color=0e75b6&style=flat-square" alt="Nikolaihoej" /> </p>
 <p align="justify">
   I'm Nikolai Hoej Jensen, but people call me "Hoej / høj" I'm a dedicated Multimediadesigner and studying to becomeing a Web-developer with a focus on Frontend development and UI/UX designs. I focus on creating functional and visually pretty front-end web applications. I have expertise in mock-ups, photo editing, Re-designs and other graphic design services. I have an AP Degree in Multimediadesign as i mentioned earlier and I am currently studying for my bachelor's degree in web design. I have been around computers my whole life and always had a curiosity for technical work. My passion for drawing and design has helped me on my way to becoming a professional website developer.
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nikolaihoej&label=Profile%20views&color=0e75b6&style=flat-square" alt="Nikolaihoej" /> </p>
 
 <h2 align="center">Tools & technologies I use</h2>
 
